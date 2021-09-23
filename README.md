@@ -1,1 +1,1 @@
-# What-is-EZY
+![ezy about](img/ezy-about.png)
